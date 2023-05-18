@@ -41,4 +41,4 @@ Curso de lógica de programação com Javascript da **Cod3r** - Prof. **Leonardo
 [Lista 6 - Exercícios de objeto](/Arquivos/Conte%C3%BAdo/Lista%206.md) 
 
 ### Lista final de exercícios
-[Lista final - Exercícios diversos](/Arquivos/Conte%C3%BAdo/Lista%20final)
+[Lista final - Exercícios diversos](/Arquivos/Conte%C3%BAdo/Lista%20final.md)
