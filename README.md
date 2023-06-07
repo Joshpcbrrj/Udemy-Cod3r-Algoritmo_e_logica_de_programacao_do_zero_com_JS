@@ -2,7 +2,7 @@
 
 # Udemy - Algoritmo e lógica de programação do absoluto zero com JS
 
-Curso de lógica de programação com Javascript da **Cod3r** - Prof. **Leonardo Moura Leitão** / 18 horas
+Curso de lógica de programação com Javascript da **Cod3r** - Prof. **Leonardo Moura Leitão** / 18 horas de conteúdo
 
 ### Certificado
 [Certificado](/Arquivos/Certificado/Algoritmo%20e%20l%C3%B3gica%20de%20programa%C3%A7%C3%A3o%20do%20absoluto%20zero%20(18%20horas).pdf)
